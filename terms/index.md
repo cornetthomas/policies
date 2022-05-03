@@ -1,21 +1,22 @@
 ---
 title: Terms of Service
-description: All the terms that you agree to when you sign up for a Basecamp product.
+description: All the terms that you agree to when you sign up for a Mighty Image product.
 ---
 
 # Terms of Service
 
-*Last updated: September 28, 2021*
+*Last updated: May 3, 2022*
 
-From everyone at Basecamp, thank you for using our products! We build them to help you do your best work. There are millions of people using Basecamp products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
+From everyone at Mighty Image, thank you for using our product! We build them to help you do your best work. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to Basecamp, LLC. We spun off Highrise HQ, LLC in the past, but it has since rejoined Basecamp, LLC.
+When we say “Company”, “we”, “our”, or “us” in this document, we are referring to This might work, BV. 
 
-When we say “Services”, we mean any product created and maintained by Basecamp, LLC. That includes Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard, whether delivered within a web browser, desktop application, mobile application, or another format.
+When we say “Mighty Image“, we are referring to the product and service called “Mighty Image“, developed and owned by This might work; BV. 
 
-When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services. We have specific ownership policies for our products: [Basecamp 3](https://basecamp.com/about/policies/ownership-bc3), [Basecamp 2](https://2.basecamp-help.com/article/411-account-ownership), [Basecamp Classic](https://classic.basecamp-help.com/article/526-account-ownership), [HEY for Work](https://hey.com/policies/ownership-hey/), [Highrise](https://support.highrise-help.com/article/305-account-ownership), [Campfire](https://support.campfire-help.com/article/651-who-owns-a-campfire-account) and [Backpack](https://support.backpack-help.com/article/661-account-ownership).
 
-We may update these Terms of Service in the future. You can track all changes made since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Typically these changes have been to clarify some of these terms by linking to an expanded related policy. Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://m.signalvnoise.com/).
+When we say “You” or “your”, we are referring to the people or organizations that own an account with Mighty Image.
+
+We may update these Terms of Service in the future. You can track all changes [on GitHub](https://github.com/cornetthomas/policies/tree/product/mightyimage). 
 
 When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That's true for any of our existing and future products and all features that we add to our Services over time. There may be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are not waiving that right or provision. **These terms do contain a limitation of our liability.**
 
